@@ -1,0 +1,58 @@
+{
+  "name": "eslint-config-sparkle",
+  "version": "0.0.1",
+  "description": "ESLint configuration made by Poneys",
+  "main": "configurations/base.js",
+  "scripts": {
+    "test": "eslint -c index.js index.js rules/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:HashtagPoneyClub/eslint-config-sparkle.git"
+  },
+  "contributors": [
+    {
+      "name": "Alexandre Barbier",
+      "url": "https://github.com/Alex-Barbier"
+    },
+    {
+      "name": "Antoine Jackson",
+      "url": "https://github.com/william26"
+    },
+    {
+      "name": "Benjamin Delamarre",
+      "url": "https://github.com/d34thwings"
+    },
+    {
+      "name": "Matthieu Kluj",
+      "url": "https://github.com/Sankluj"
+    },
+    {
+      "name": "Oleg Sklyanchuk",
+      "url": "https://github.com/olegskl"
+    }
+  ],
+  "keywords": [
+    "code checker",
+    "code linter",
+    "code standards",
+    "code style",
+    "eslint-config",
+    "eslint",
+    "eslintconfig",
+    "lint",
+    "style checker",
+    "style linter",
+    "poneyclub",
+    "poneys"
+  ],
+  "author": "PoneyClub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HashtagPoneyClub/eslint-config-sparkle/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.12.1"
+  }
+}
